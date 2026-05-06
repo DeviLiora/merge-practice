@@ -1,6 +1,6 @@
 # GitHub Teacher
-
-Hi, How are you..... Charting the knowledge of the Internet, just like Galileo charted the stars.
+Hi Maya, Hi, How are you.....
+Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Experience
 
